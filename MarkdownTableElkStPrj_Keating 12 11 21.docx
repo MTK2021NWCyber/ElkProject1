@@ -1,0 +1,6 @@
+| Name               	| Function                                                                                                                         	| IP address     	| 10.0.0.1  	| Operating System 	| JumpBox 	|
+|--------------------	|----------------------------------------------------------------------------------------------------------------------------------	|----------------	|-----------	|------------------	|---------	|
+| JumpBoxProvisioner 	| Bridge between trusted networks                                                                                                  	| 	20.124.98.6    	| 10.0.0.7  	| Windows          			| yes     	|
+| Web1               	| build and deploy apps; allows new environment to spin up - simpler and quicker                                                   	| 20.121.208.93  	| 10.0.0.6  			| Windows          	| no      	|
+| Web2               	| provides the ability to emulate a separate operating system - from your existing OS                                              	| 20.121.204.168 	| 10.0.0.10 			| Windows          	| no      	|
+| ElkProject         	| Analytics Engine:  full text searches; ELK is an acronym to describe 3 open-source projects:  Elasticsearch, Logstash and Kibana 	| 40.69.166.92   	| 10.1.0.4  	| Windows          	| no      	|
