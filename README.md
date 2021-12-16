@@ -88,7 +88,7 @@ Run Playbook:
       
       nano hosts
       nano playbook2.yml
-      ansible-p[laybook playbook2.yml
+      ansible-playbook playbook2.yml
            
   
                      
